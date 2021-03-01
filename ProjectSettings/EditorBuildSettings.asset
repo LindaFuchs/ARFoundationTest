@@ -5,9 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/Scenes/FirstTestScene.unity
-    guid: 3ca6d1cb062b0bd47ae45d33158bdf0c
+  - enabled: 1
+    path: Assets/Scenes/AndroidAR.unity
+    guid: 9b16e907d4e81554ba6f715dd3371edd
   m_configObjects:
     com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: fc517f2a31a5d674abb1097539aae9b0,
       type: 2}
